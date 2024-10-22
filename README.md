@@ -12,6 +12,7 @@ simple image slideshow introducing solar system for old apple II series.
 ## see also
 
 - https://wiki.reactivemicro.com/GRAPHIC_NOVEL_APPLEWIN_TUTORIAL
+- http://www.appleoldies.ca/bmp2dhr/basic/
 
 ---
 May the **SOURCE** be with you...
