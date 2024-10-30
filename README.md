@@ -1,7 +1,7 @@
-apple2-solar
-============
+apple2-picture-books
+====================
 
-simple image slideshow introducing solar system for old apple II series.
+simple picture books(image slideshow with text) for old AppleIIx
 
 ## requirements
 
